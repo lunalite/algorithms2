@@ -1,1 +1,1 @@
-Main-class: algorithms/Main
+Main-class: algorithmsMain
